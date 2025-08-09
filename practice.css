@@ -1,0 +1,30 @@
+nav>ul>li,footer{
+    display: inline;
+    margin-left: 20px;
+    font-size: 120%;
+}
+a{
+    text-decoration: none;
+}
+#manik{
+    color: rgb(74, 31, 99);
+    font-weight: 2000;
+
+}
+figcaption{
+    text-align: center;
+}
+img{
+    width: 900px;
+    height: 80;
+}
+#tag1{
+    text-align:center;
+    display: inline;
+    margin-right: 20px;
+    
+}
+#all{
+    text-align: center;
+
+}
